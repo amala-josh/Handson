@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadStartSample", "ThreadStartSample\ThreadStartSample.csproj", "{4E0AE052-9793-423F-97F1-E1CD695EB84B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingSample", "MultithreadingSample\MultithreadingSample.csproj", "{C00CA042-676D-403A-8A22-473E67DCF373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0AE052-9793-423F-97F1-E1CD695EB84B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0AE052-9793-423F-97F1-E1CD695EB84B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0AE052-9793-423F-97F1-E1CD695EB84B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0AE052-9793-423F-97F1-E1CD695EB84B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00CA042-676D-403A-8A22-473E67DCF373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00CA042-676D-403A-8A22-473E67DCF373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00CA042-676D-403A-8A22-473E67DCF373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00CA042-676D-403A-8A22-473E67DCF373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D373CB67-2385-43D0-ABB9-B2794C2C193F}
+	EndGlobalSection
+EndGlobal

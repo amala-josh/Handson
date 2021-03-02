@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicFilesLib", "MagicFilesLib\MagicFilesLib.csproj", "{275E3931-708A-4914-9B73-C6586A38FE0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectoryExplorer.Tests", "DirectoryExplorer.Tests\DirectoryExplorer.Tests.csproj", "{E261E339-B47A-4448-8280-11C7F6BBC5BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{275E3931-708A-4914-9B73-C6586A38FE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275E3931-708A-4914-9B73-C6586A38FE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275E3931-708A-4914-9B73-C6586A38FE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275E3931-708A-4914-9B73-C6586A38FE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E261E339-B47A-4448-8280-11C7F6BBC5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E261E339-B47A-4448-8280-11C7F6BBC5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E261E339-B47A-4448-8280-11C7F6BBC5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E261E339-B47A-4448-8280-11C7F6BBC5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D00B4FEF-C179-4083-99D0-D2FDFAB38725}
+	EndGlobalSection
+EndGlobal

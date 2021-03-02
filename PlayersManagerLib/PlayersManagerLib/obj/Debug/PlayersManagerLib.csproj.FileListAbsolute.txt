@@ -1,0 +1,6 @@
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csprojAssemblyReference.cache

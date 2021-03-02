@@ -1,0 +1,6 @@
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\Named parameters\bin\Debug\Named parameters.exe.config
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\Named parameters\bin\Debug\Named parameters.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\Named parameters\bin\Debug\Named parameters.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\Named parameters\obj\Debug\Named parameters.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\Named parameters\obj\Debug\Named parameters.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\Named parameters\obj\Debug\Named parameters.pdb

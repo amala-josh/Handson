@@ -1,0 +1,5 @@
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.dll
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.dll
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.pdb

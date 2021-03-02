@@ -1,0 +1,7 @@
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\Demo_Nunit\Demo_Nunit\bin\Debug\Demo_Nunit.exe.config
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\Demo_Nunit\Demo_Nunit\bin\Debug\Demo_Nunit.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\Demo_Nunit\Demo_Nunit\bin\Debug\Demo_Nunit.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\Demo_Nunit\Demo_Nunit\obj\Debug\Demo_Nunit.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\Demo_Nunit\Demo_Nunit\obj\Debug\Demo_Nunit.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\Demo_Nunit\Demo_Nunit\obj\Debug\Demo_Nunit.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\Demo_Nunit\Demo_Nunit\obj\Debug\Demo_Nunit.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.csprojAssemblyReference.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.Form1.resources
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.Properties.Resources.resources
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.csproj.GenerateResource.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\AsyncAwaitUsage2\bin\Debug\AsyncAwaitUsage2.exe.config
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\AsyncAwaitUsage2\bin\Debug\AsyncAwaitUsage2.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\AsyncAwaitUsage2\bin\Debug\AsyncAwaitUsage2.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\AysncAwaitUsage1\AsyncAwaitUsage2\obj\Debug\AsyncAwaitUsage2.pdb
