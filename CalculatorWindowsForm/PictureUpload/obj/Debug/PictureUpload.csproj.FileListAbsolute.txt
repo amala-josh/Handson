@@ -1,0 +1,10 @@
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\PictureUpload\bin\Debug\PictureUpload.exe.config
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\PictureUpload\bin\Debug\PictureUpload.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\PictureUpload\bin\Debug\PictureUpload.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\PictureUpload\obj\Debug\PictureUpload.csprojAssemblyReference.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\PictureUpload\obj\Debug\PictureUpload.Form1.resources
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\PictureUpload\obj\Debug\PictureUpload.Properties.Resources.resources
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\PictureUpload\obj\Debug\PictureUpload.csproj.GenerateResource.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\PictureUpload\obj\Debug\PictureUpload.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\PictureUpload\obj\Debug\PictureUpload.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\PictureUpload\obj\Debug\PictureUpload.pdb

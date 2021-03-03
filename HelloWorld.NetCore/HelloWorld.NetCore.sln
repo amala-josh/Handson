@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.NetCore", "HelloWorld.NetCore\HelloWorld.NetCore.csproj", "{EF656585-F238-454A-9DEA-5E4D10D3BE77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApplication.NetCore", "MVCApplication.NetCore\MVCApplication.NetCore.csproj", "{71EA203B-C0F1-4705-8EA3-A117507106FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF656585-F238-454A-9DEA-5E4D10D3BE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF656585-F238-454A-9DEA-5E4D10D3BE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF656585-F238-454A-9DEA-5E4D10D3BE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF656585-F238-454A-9DEA-5E4D10D3BE77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EA203B-C0F1-4705-8EA3-A117507106FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EA203B-C0F1-4705-8EA3-A117507106FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EA203B-C0F1-4705-8EA3-A117507106FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EA203B-C0F1-4705-8EA3-A117507106FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DE6238E-0A3A-480F-9CE3-1B5A84F26F33}
+	EndGlobalSection
+EndGlobal

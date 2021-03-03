@@ -1,0 +1,10 @@
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.exe.config
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csprojAssemblyReference.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.Form1.resources
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.Properties.Resources.resources
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csproj.GenerateResource.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.pdb
