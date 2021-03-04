@@ -1,0 +1,9 @@
+F:\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.config
+F:\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+F:\MyFirstService\MyFirstService\bin\Debug\MyFirstService.pdb
+F:\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csprojAssemblyReference.cache
+F:\MyFirstService\MyFirstService\obj\Debug\MyFirstService.ProjectInstaller.resources
+F:\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.GenerateResource.cache
+F:\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.CoreCompileInputs.cache
+F:\MyFirstService\MyFirstService\obj\Debug\MyFirstService.exe
+F:\MyFirstService\MyFirstService\obj\Debug\MyFirstService.pdb
