@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewData["Title"] = "GetEmployeeList";
+}
+
+<h1>GetEmployeeList</h1>
+
+@model IEnumerable<ASPEmployee.Models.Employee>
+
+    @{ ViewData["Title"] = "GetEmployeeList";
+                Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+    <h1>Employee List</h1>
+
+    <div class="Row">
+
+
+        <span class="col-md-4">
+            Name
+        </span>
+
+
+        <span class="col-md-4">
+            Salary
+        </span>
+
+
+
+    </div>
+
+
+@foreach (var emp in Model)
+{
+    @if (@emp.IsPermanent)
+{
+
+
+    <div class="Row">
+
+
+        <span class="col-md-4">
+            <mark class="alert-danger">
+                @emp.Name
+            </mark>
+        </span>
+
+
+        <span class="col-md-4">
+            <mark class="alert-danger">
+
+                @emp.Salary
+            </mark>
+        </span>
+    </div> 
+    }
+  else
+  {
+    <div class="Row">
+
+
+        <span class="col-md-4">
+            @emp.Name
+        </span>
+
+
+        <span class="col-md-4">
+            @emp.Salary
+        </span>
+    </div>
+    }
+}
