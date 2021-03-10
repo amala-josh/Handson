@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\ASPEmployeePartialView\\ASPEmployeePartialView\\ASPEmployeePartialView.csproj": {}
+    "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\ASPEmployeePartialView\\ASPEmployeePartialView\\ASPEmployeePartialView.csproj": {}
   },
   "projects": {
-    "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\ASPEmployeePartialView\\ASPEmployeePartialView\\ASPEmployeePartialView.csproj": {
+    "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\ASPEmployeePartialView\\ASPEmployeePartialView\\ASPEmployeePartialView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\ASPEmployeePartialView\\ASPEmployeePartialView\\ASPEmployeePartialView.csproj",
+        "projectUniqueName": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\ASPEmployeePartialView\\ASPEmployeePartialView\\ASPEmployeePartialView.csproj",
         "projectName": "ASPEmployeePartialView",
-        "projectPath": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\ASPEmployeePartialView\\ASPEmployeePartialView\\ASPEmployeePartialView.csproj",
+        "projectPath": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\ASPEmployeePartialView\\ASPEmployeePartialView\\ASPEmployeePartialView.csproj",
         "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
-        "outputPath": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\ASPEmployeePartialView\\ASPEmployeePartialView\\obj\\",
+        "outputPath": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\ASPEmployeePartialView\\ASPEmployeePartialView\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",

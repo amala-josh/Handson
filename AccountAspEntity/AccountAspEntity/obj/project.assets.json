@@ -8827,11 +8827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\AccountAspEntity\\AccountAspEntity\\AccountAspEntity.csproj",
+      "projectUniqueName": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\AccountAspEntity\\AccountAspEntity\\AccountAspEntity.csproj",
       "projectName": "AccountAspEntity",
-      "projectPath": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\AccountAspEntity\\AccountAspEntity\\AccountAspEntity.csproj",
+      "projectPath": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\AccountAspEntity\\AccountAspEntity\\AccountAspEntity.csproj",
       "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
-      "outputPath": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\AccountAspEntity\\AccountAspEntity\\obj\\",
+      "outputPath": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\AccountAspEntity\\AccountAspEntity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",

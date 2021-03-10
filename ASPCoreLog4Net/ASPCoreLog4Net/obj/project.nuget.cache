@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WOI1tDgrI1j3Uw8HG3CE6z7BHJAPdOFPW03rEVgvQkAbY6MEUH77oZCQMTvTkrXVN+DPEo7jBsR7Ny7Tiom7EA==",
+  "dgSpecHash": "zMfcXIkZYM/x8LJWWlxq4yW+qkQTsnaJjbOp26WSw4aRFQKwv8HARn1LODyUH/wlZO5+PX35MppI+1UE8IBsAA==",
   "success": true,
-  "projectFilePath": "F:\\Files\\Amala\\COGNIZANT\\C# stage 3\\ASPCoreLog4Net\\ASPCoreLog4Net\\ASPCoreLog4Net.csproj",
+  "projectFilePath": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\ASPCoreLog4Net\\ASPCoreLog4Net\\ASPCoreLog4Net.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Levi\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Users\\Levi\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

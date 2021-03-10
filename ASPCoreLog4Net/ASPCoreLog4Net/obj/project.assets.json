@@ -6713,11 +6713,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Files\\Amala\\COGNIZANT\\C# stage 3\\ASPCoreLog4Net\\ASPCoreLog4Net\\ASPCoreLog4Net.csproj",
+      "projectUniqueName": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\ASPCoreLog4Net\\ASPCoreLog4Net\\ASPCoreLog4Net.csproj",
       "projectName": "ASPCoreLog4Net",
-      "projectPath": "F:\\Files\\Amala\\COGNIZANT\\C# stage 3\\ASPCoreLog4Net\\ASPCoreLog4Net\\ASPCoreLog4Net.csproj",
+      "projectPath": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\ASPCoreLog4Net\\ASPCoreLog4Net\\ASPCoreLog4Net.csproj",
       "packagesPath": "C:\\Users\\Levi\\.nuget\\packages\\",
-      "outputPath": "F:\\Files\\Amala\\COGNIZANT\\C# stage 3\\ASPCoreLog4Net\\ASPCoreLog4Net\\obj\\",
+      "outputPath": "F:\\Files\\Amala\\COGNIZANT\\Nunit Testing\\Hands On\\Handson\\ASPCoreLog4Net\\ASPCoreLog4Net\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Levi\\AppData\\Roaming\\NuGet\\NuGet.Config",
