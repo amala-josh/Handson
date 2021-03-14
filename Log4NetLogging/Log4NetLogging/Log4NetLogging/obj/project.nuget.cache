@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rtloLoR4DhjRJ27D6p/tMNlw6MLMB0AH34tIgNxnETOpfLyjAXYd3PFycXeSH3KNWortZZV2TDOrOwMw1NJHag==",
+  "success": true,
+  "projectFilePath": "F:\\Users\\Levi\\Downloads\\Log4NetLogging\\Log4NetLogging\\Log4NetLogging\\Log4NetLogging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Levi\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
+    "C:\\Users\\Levi\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Levi\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\Levi\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\Levi\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\Levi\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\Levi\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
