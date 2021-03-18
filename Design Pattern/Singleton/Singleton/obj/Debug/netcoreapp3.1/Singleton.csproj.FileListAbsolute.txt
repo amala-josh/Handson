@@ -1,0 +1,13 @@
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+F:\Files\Amala\COGNIZANT\DesignPattern\Handson\Singleton\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

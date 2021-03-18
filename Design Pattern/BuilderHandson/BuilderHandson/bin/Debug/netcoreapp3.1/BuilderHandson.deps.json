@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BuilderHandson/1.0.0": {
+        "runtime": {
+          "BuilderHandson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuilderHandson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

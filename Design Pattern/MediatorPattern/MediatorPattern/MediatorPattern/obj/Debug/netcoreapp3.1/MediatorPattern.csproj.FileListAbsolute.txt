@@ -1,0 +1,26 @@
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.exe
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.deps.json
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.json
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.dev.json
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csprojAssemblyReference.cache
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfoInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfo.cs
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csproj.CoreCompileInputs.cache
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.dll
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.pdb
+D:\C#\Stage_3Handsons\6 Design Principles\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.genruntimeconfig.cache
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.exe
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.deps.json
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.json
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.runtimeconfig.dev.json
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.dll
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\bin\Debug\netcoreapp3.1\MediatorPattern.pdb
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csprojAssemblyReference.cache
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfoInputs.cache
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.AssemblyInfo.cs
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.csproj.CoreCompileInputs.cache
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.dll
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.pdb
+F:\Users\Levi\Downloads\MediatorPattern\MediatorPattern\MediatorPattern\obj\Debug\netcoreapp3.1\MediatorPattern.genruntimeconfig.cache

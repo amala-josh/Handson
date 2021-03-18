@@ -1,0 +1,13 @@
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+F:\Users\Levi\Downloads\AbstractFactory (1)\AbstractFactory\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
