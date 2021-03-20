@@ -1,0 +1,13 @@
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\bin\Debug\netcoreapp3.1\FinalObserverCaseStudy.exe
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\bin\Debug\netcoreapp3.1\FinalObserverCaseStudy.deps.json
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\bin\Debug\netcoreapp3.1\FinalObserverCaseStudy.runtimeconfig.json
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\bin\Debug\netcoreapp3.1\FinalObserverCaseStudy.runtimeconfig.dev.json
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\bin\Debug\netcoreapp3.1\FinalObserverCaseStudy.dll
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\bin\Debug\netcoreapp3.1\FinalObserverCaseStudy.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\obj\Debug\netcoreapp3.1\FinalObserverCaseStudy.csprojAssemblyReference.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\obj\Debug\netcoreapp3.1\FinalObserverCaseStudy.AssemblyInfoInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\obj\Debug\netcoreapp3.1\FinalObserverCaseStudy.AssemblyInfo.cs
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\obj\Debug\netcoreapp3.1\FinalObserverCaseStudy.csproj.CoreCompileInputs.cache
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\obj\Debug\netcoreapp3.1\FinalObserverCaseStudy.dll
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\obj\Debug\netcoreapp3.1\FinalObserverCaseStudy.pdb
+F:\Files\Amala\COGNIZANT\Nunit Testing\Hands On\FinalObserverCaseStudy\FinalObserverCaseStudy\obj\Debug\netcoreapp3.1\FinalObserverCaseStudy.genruntimeconfig.cache
